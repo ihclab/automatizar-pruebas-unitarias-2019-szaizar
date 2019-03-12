@@ -24,7 +24,7 @@ namespace AutomatizarPruebasUnitarias {
         public double mediaGeometrica(params int[] vals) { }
 
         /**
-         * Este método no está implementado
+         * Este método no está implementado.
          */
         public static double mediaArmonica(params int[] vals) { }
     }
