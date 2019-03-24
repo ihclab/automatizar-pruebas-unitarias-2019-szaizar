@@ -37,5 +37,6 @@
     # Este método no está implementado.
     # public static double mediaArmonica(params int[] vals) { }
     def self.media_armonica(arr_nums)
+        raise "not implemented"
     end
 end
