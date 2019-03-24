@@ -1,6 +1,6 @@
 require './medias'
 
-arr_nums = [1,3,9]
+arr_nums = [20,nil]
 
 p Medias.media_aritmetica(arr_nums)
 
