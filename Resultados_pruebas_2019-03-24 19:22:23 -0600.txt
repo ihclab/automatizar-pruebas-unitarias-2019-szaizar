@@ -1,0 +1,107 @@
+Id de prueba:  1
+tipo de media: aritmetica
+prueba: exitosa 
+ERROR: ninguno
+tiempo: 9.270600003219442e-05 segundos
+
+Id de prueba:  2
+tipo de media: geometrica
+prueba: exitosa 
+ERROR: ninguno
+tiempo: 1.8766000039249775e-05 segundos
+
+Id de prueba:  3
+tipo de media: armonica
+prueba: fallida 
+ERROR: El metodo para calcular la media armonica no ha sido implementado
+tiempo: 2.5549999918439426e-05 segundos
+
+Id de prueba:  4
+tipo de media: aritmetica
+prueba: exitosa 
+ERROR: ninguno
+tiempo: 9.360000149172265e-06 segundos
+
+Id de prueba:  5
+tipo de media: geometrica
+prueba: exitosa 
+ERROR: ninguno
+tiempo: 9.047999810718466e-06 segundos
+
+Id de prueba:  6
+tipo de media: armonica
+prueba: fallida 
+ERROR: El metodo para calcular la media armonica no ha sido implementado
+tiempo: 1.0801999906107085e-05 segundos
+
+Id de prueba:  7
+tipo de media: aritmetica
+prueba: exitosa 
+ERROR: ninguno
+tiempo: 6.440000106522348e-06 segundos
+
+Id de prueba:  8
+tipo de media: geometrica
+prueba: exitosa 
+ERROR: ninguno
+tiempo: 5.213000122239464e-06 segundos
+
+Id de prueba:  9
+tipo de media: armonica
+prueba: fallida 
+ERROR: El metodo para calcular la media armonica no ha sido implementado
+tiempo: 1.6528999822185142e-05 segundos
+
+Id de prueba:  10
+tipo de media: aritmetica
+prueba: exitosa 
+ERROR: ninguno
+tiempo: 1.6807999827506137e-05 segundos
+
+Id de prueba:  11
+tipo de media: geometrica
+prueba: exitosa 
+ERROR: ninguno
+tiempo: 2.429999995001708e-05 segundos
+
+Id de prueba:  12
+tipo de media: armonica
+prueba: fallida 
+ERROR: El metodo para calcular la media armonica no ha sido implementado
+tiempo: 2.188100006605964e-05 segundos
+
+Id de prueba:  13
+tipo de media: aritmetica
+prueba: exitosa 
+ERROR: ninguno
+tiempo: 3.9671999957135995e-05 segundos
+
+Id de prueba:  14
+tipo de media: geometrica
+prueba: exitosa 
+ERROR: ninguno
+tiempo: 1.3063000096735777e-05 segundos
+
+Id de prueba:  15
+tipo de media: armonica
+prueba: fallida 
+ERROR: El metodo para calcular la media armonica no ha sido implementado
+tiempo: 1.307399998040637e-05 segundos
+
+Id de prueba:  16
+tipo de media: aritmetica
+prueba: exitosa 
+ERROR: ninguno
+tiempo: 4.107800009478524e-05 segundos
+
+Id de prueba:  17
+tipo de media: geometrica
+prueba: exitosa 
+ERROR: ninguno
+tiempo: 9.039999895321671e-06 segundos
+
+Id de prueba:  18
+tipo de media: armonica
+prueba: fallida 
+ERROR: El metodo para calcular la media armonica no ha sido implementado
+tiempo: 9.764999958861154e-06 segundos
